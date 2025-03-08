@@ -40,20 +40,25 @@ Welcome to the ultimate Python Blackjack experience! This casino-style implement
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/blackjack-game.git
-cd blackjack-game
+git clone https://github.com/JeremyPanggabean/Blackjack-Games.git
 ```
 
-2. Install required packages:
+2. Change the directory:
+
+```bash
+cd Blackjack-Games
+```
+
+3. Install required packages:
 
 ```bash
 pip install art
 ```
 
-3. Run the game:
+4. Run the game:
 
 ```bash
-python blackjack.py
+python blackjack_program.py
 ```
 
 ## 🎮 How to Play
