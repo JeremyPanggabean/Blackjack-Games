@@ -1,3 +1,4 @@
+# import random modul for randomize cards
 import random
 
 # import logo from art file
@@ -82,9 +83,10 @@ def play_game(chips):
     result = compare(user_score, computer_score)
     print(result)
     
-    if "win" in result:
+    # Comparison case sensitive
+    if "win" in result.lower():
         chips += bet
-    elif "lose" in result:
+    elif "lose" in result.lower():
         chips -= bet
     
     print(f"You now have {format_chips(chips)} chips.")
