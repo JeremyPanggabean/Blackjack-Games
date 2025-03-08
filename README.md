@@ -95,59 +95,13 @@ Do you want to play a game of Blackjack? Type 'y' or 'n': y
 You have 10.000 chips.
 Available chip bets: ['1K', '3K', '5K', '10K']
 Choose your bet (1K, 3K, 5K, 10K): 3K
-Your cards: [8, 9], current score: 17
-Computer's first card: 8
+Your cards: [8, 10], current score: 18
+Computer's first card: 4
 Type 'y' to get another card, type 'n' to pass: n
-Your final hand: [8, 9], final score: 17
-Computer's final hand: [8, 7, 4], final score: 19
-You lose 😌
-You now have 7.000 chips.
-Do you want to play a game of Blackjack? Type 'y' or 'n': y
-
-
-.------.            _     _            _    _            _
-|A_  _ |.          | |   | |          | |  (_)          | |
-|( \/ ).-----.     | |__ | | __ _  ___| | ___  __ _  ___| | __
-| \  /|K /\  |     | '_ \| |/ _` |/ __| |/ / |/ _` |/ __| |/ /
-|  \/ | /  \ |     | |_) | | (_| | (__|   <| | (_| | (__|   <
-`-----| \  / |     |_.__/|_|\__,_|\___|_|\_\ |\__,_|\___|_|\_\\
-      |  \/ K|                            _/ |
-      `------'                           |__/
-
-You have 7.000 chips.
-Available chip bets: ['1K', '3K', '5K', '10K']
-Choose your bet (1K, 3K, 5K, 10K): 5K
-Your cards: [10, 2], current score: 12
-Computer's first card: 2
-Type 'y' to get another card, type 'n' to pass: y
-Your cards: [10, 2, 10], current score: 22
-Computer's first card: 2
-Your final hand: [10, 2, 10], final score: 22
-Computer's final hand: [2, 10, 1, 8], final score: 21
-You busted! You lose 😭
-You now have 2.000 chips.
-Do you want to play a game of Blackjack? Type 'y' or 'n': y
-
-
-.------.            _     _            _    _            _
-|A_  _ |.          | |   | |          | |  (_)          | |
-|( \/ ).-----.     | |__ | | __ _  ___| | ___  __ _  ___| | __
-| \  /|K /\  |     | '_ \| |/ _` |/ __| |/ / |/ _` |/ __| |/ /
-|  \/ | /  \ |     | |_) | | (_| | (__|   <| | (_| | (__|   <
-`-----| \  / |     |_.__/|_|\__,_|\___|_|\_\ |\__,_|\___|_|\_\\
-      |  \/ K|                            _/ |
-      `------'                           |__/
-
-You have 2.000 chips.
-Available chip bets: ['1K', '3K', '5K', '10K']
-Choose your bet (1K, 3K, 5K, 10K): 1K
-Your cards: [5, 10], current score: 15
-Computer's first card: 10
-Type 'y' to get another card, type 'n' to pass: n
-Your final hand: [5, 10], final score: 15
-Computer's final hand: [10, 4, 10], final score: 24
+Your final hand: [8, 10], final score: 18
+Computer's final hand: [4, 10, 1, 10], final score: 25
 Computer busted! You win 🤩
-You now have 3.000 chips.
+You now have 13.000 chips.
 Do you want to play a game of Blackjack? Type 'y' or 'n': y
 
 
@@ -160,15 +114,41 @@ Do you want to play a game of Blackjack? Type 'y' or 'n': y
       |  \/ K|                            _/ |
       `------'                           |__/
 
-You have 3.000 chips.
+You have 13.000 chips.
 Available chip bets: ['1K', '3K', '5K', '10K']
-Choose your bet (1K, 3K, 5K, 10K): 3K
-Your cards: [5, 4], current score: 9
-Computer's first card: 10
-Your final hand: [5, 4], final score: 9
-Computer's final hand: [10, 11], final score: 0
-Lose, Computer has a Blackjack 😮
-You now have 3.000 chips.
+Choose your bet (1K, 3K, 5K, 10K): 5k
+Your cards: [7, 8], current score: 15
+Computer's first card: 7
+Type 'y' to get another card, type 'n' to pass: n
+Your final hand: [7, 8], final score: 15
+Computer's final hand: [7, 8, 10], final score: 25
+Computer busted! You win 🤩
+You now have 18.000 chips.
+Do you want to play a game of Blackjack? Type 'y' or 'n': y
+
+
+.------.            _     _            _    _            _
+|A_  _ |.          | |   | |          | |  (_)          | |
+|( \/ ).-----.     | |__ | | __ _  ___| | ___  __ _  ___| | __
+| \  /|K /\  |     | '_ \| |/ _` |/ __| |/ / |/ _` |/ __| |/ /
+|  \/ | /  \ |     | |_) | | (_| | (__|   <| | (_| | (__|   <
+`-----| \  / |     |_.__/|_|\__,_|\___|_|\_\ |\__,_|\___|_|\_\\
+      |  \/ K|                            _/ |
+      `------'                           |__/
+
+You have 18.000 chips.
+Available chip bets: ['1K', '3K', '5K', '10K']
+Choose your bet (1K, 3K, 5K, 10K): 10K
+Your cards: [4, 4], current score: 8
+Computer's first card: 5
+Type 'y' to get another card, type 'n' to pass: y
+Your cards: [4, 4, 10], current score: 18
+Computer's first card: 5
+Type 'y' to get another card, type 'n' to pass: n
+Your final hand: [4, 4, 10], final score: 18
+Computer's final hand: [5, 10, 2], final score: 17
+You win 🤫
+You now have 28.000 chips.
 Do you want to play a game of Blackjack? Type 'y' or 'n': n
 Thank you for playing Blackjack! 🎉
 ```
